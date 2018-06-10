@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Indie Flower', cursive;
+  }
+  
+.main{
+    display: inline-block;
+    
+  }
+
+.race{
+    text-align: center;
+  }
+  
+button{
+    background-color: #4CAF50; /* Green */
+    border: 3px dotted darkgreen;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50%;
+}
